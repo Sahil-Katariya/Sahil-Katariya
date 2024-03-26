@@ -2,7 +2,7 @@
 - 👀 I’m interested in TECHNOLOGY
 - 🌱 I’m currently learning IT engineering
 - 💞️ I’m looking to collaborate on coding and app devloping
-- 📫 you reach me at instagram @sk.ahir.269
+- 📫 you reach me at instagram @sahil.ahir.26
 
 <!---
 Sahil-Katariya/Sahil-Katariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
