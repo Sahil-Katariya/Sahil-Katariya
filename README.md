@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahil-Katariya
-- 👀 I’m interested in TECHNOLOGY
+- 👀 I’m interested in INFORMATION TECHNOLOGY
 - 🌱 I’m currently learning IT engineering
-- 💞️ I’m looking to collaborate on coding and app devloping
+- 💞️ I’m looking to collaborate on coding and web devloping
 - 📫 you reach me at instagram @sahil.ahir.26
 
 <!---
