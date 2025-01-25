@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkatariya&label=Profile%20views&color=772eff&style=flat" alt="sahilkatariya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sahilkatariya26" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_katariya?logo=twitter&style=for-the-badge" alt="sahil_katariya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahilkatariya26" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkatariya26?logo=twitter&style=for-the-badge" alt="Sahil Katariya" /></a> </p>
 
    - 🔭 I’m currently working on **Web Projects** including **FeedBackHub , petadoption.**
      
