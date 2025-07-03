@@ -15,7 +15,6 @@
 - 🌱 Currently exploring **Machine Learning**, and **AI**
 - 🤖 I’m also working on **Robotics Projects** including **Robotics and automation.**
 - 💬 Ask me about **Web Development and Robotics**
-- 🍻 Open to collaborate on any project.
 
 ---
 
