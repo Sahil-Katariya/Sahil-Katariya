@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year **IT Engineering Student** at GEC Bhavnagar (Graduating 2026)  
+- 🎓 **IT Engineering Student** from GEC Bhavnagar (Graduating 2026)  
 - 💻 Passionate about crafting clean, fast, and scalable web applications  
 - 🚀 Enthusiastic about **Web Projects**, **AI**, **Robotics**  
 - 🌱 Currently exploring **Machine Learning**, and **AI**
-- 🤖 I’m also working on **Robotics Projects** including **Robotics and automation.**
 - 💬 Ask me about **Web Development and Robotics**
+- 🤖 I’m also working on **Robotics Projects** including **Robotics and automation.**
 
 ---
 
@@ -23,8 +23,8 @@
 - 🌐 **FeedBackHub** – User-centric platform for collecting and analyzing feedback  
 - 🐾 **PetAdoption** – A beautiful frontend project showcasing pets with intuitive UI  
 - 🏫 **School Website** – A modern website for schools 
-- 🤖 **Robotics Automation** – Building robotic systems   
 - 🧠 **AI Explorations** – Hands-on experiments integrating ML into web platforms
+- 🤖 **Robotics Automation** – Building robotic systems   
 
 ---
 
