@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:bold;">👋 Hi, I'm Sahil Katariya</h1>
-<h3 align="center">A Web Developer • Tech Explorer</h3>
+<h3 align="center">Tech Explorer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahilkatariya&label=Profile%20views&color=772eff&style=flat" alt="sahilkatariya" />
