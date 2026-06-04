@@ -1,57 +1,61 @@
 <h1 align="center" style="font-weight:bold;">👋 Hi, I'm Sahil Katariya</h1>
-<h3 align="center">Tech Explorer</h3>
+<h3 align="center">Tech Explorer & Firmware Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahilkatariya&label=Profile%20views&color=772eff&style=flat" alt="sahilkatariya" />
 </p>
 
 ---
-
 ## 🚀 About Me
 
-- 🎓 **IT Engineering Student** from GEC Bhavnagar (Graduating 2026)  
-- 💻 Passionate about crafting clean, fast, and scalable web applications  
-- 🚀 Enthusiastic about **Web Projects**, **AI**, **Robotics**  
-- 🌱 Currently exploring **Machine Learning**, and **AI**
-- 💬 Ask me about **Web Development and Robotics**
-- 🤖 I’m also working on **Robotics Projects** including **Robotics and automation.**
+- 🎓 **Information Technology Graduate** from GEC Bhavnagar (2026)
+- 🔧 Passionate about **Embedded Systems**, **Firmware Development** and **Robotics**
+- 🤖 Team Leader of **Team Dhruvsankalp** for the **ISRO Robotics Challenge (URSC 2025)**
+- 📡 Experienced with **Nordic nRF**, **STM32**, **ESP32**, **BLE** and **LoRa**
+- 🚀 Interested in **Autonomous Systems**, **Wireless Communication** and **IoT**
+- 🌱 Currently exploring **ROS2**, **Embedded Linux** and **Real-Time Systems**
+- 💬 Ask me about **Embedded C/C++**, **Zephyr RTOS**, **BLE**, **LoRa** and **Robotics**
 
 ---
 
 ## 🔭 Projects I'm Working On
 
-- 🌐 **FeedBackHub** – User-centric platform for collecting and analyzing feedback  
-- 🐾 **PetAdoption** – A beautiful frontend project showcasing pets with intuitive UI  
-- 🏫 **School Website** – A modern website for schools 
-- 🧠 **AI Explorations** – Hands-on experiments integrating ML into web platforms
-- 🤖 **Robotics Automation** – Building robotic systems   
+- 📡 **LoWkie Talkie** – Long-range digital voice communication system using LoRa
+- 🚁 **ANAV** – Autonomous Aerial Vehicle Navigation 
+- 🏷️ **Smart Tag System** – BLE-based low-power tracking solution
+- 🌍 **AeroQSense** – IoT-based air quality monitoring platform
+- 🚁 **Remote Controlled Drone** – PID-based flight control and sensor fusion
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40" alt="Framer"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
 </p>
+
+### 🔹 Embedded Platforms
+`nRF54L15` • `nRF5340` • `nRF52840` • `STM32` • `ESP32` • `ESP8266` • `Arduino`
+
+### 🔹 RTOS & SDKs
+`Zephyr RTOS` • `nRF Connect SDK`
+
+### 🔹 Communication
+`BLE` • `LoRa` • `UART` • `SPI` • `I2C` • `I2S`
+
+### 🔹 Robotics & Control
+`PID Control` • `Sensor Fusion` • `Kalman Filter` • `Complementary Filter`
+
+### 🔹 Tools
+`Git` • `GitHub` • `Linux` • `VS Code` • `PlatformIO` • `STM32CubeIDE` • `Arduino IDE`
 
 ---
 
@@ -70,10 +74,11 @@
 
 ## ⚡ Fun Facts
 
-- 💬 Ask me about **Web Dev & Robotics**
-- 👥 Open to collaborate on **Web, IoT, or AI-based ideas**
-- 🎯 Always up for learning, building, and innovating!
-
+- 🤖 Ask me about **Embedded Systems & Robotics**
+- 📡 Fascinated by **Wireless Communication** and **Low-Power IoT Systems**
+- 🚀 Open to collaborate on **Embedded**, **IoT**, and **Robotics** projects
+- 🎯 Always learning, building, and experimenting with new technologies
+  
 ---
 
 <p align="center"><b>✨ Let's build something amazing together! 🚀</b></p>
